@@ -1,1 +1,1 @@
-# AspxNetSMTPEmail
+# Asp.Net SMPTP Email Example
